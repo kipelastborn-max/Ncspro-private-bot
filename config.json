@@ -43,11 +43,11 @@
     "notes": "If enabled, only threads in whiteListThreadIds can use the bot."
   },
   "database": {
-    "type": "mongodb",
-    "uriMongodb": "mongodb+srv://meherazchisty57_db_user:Ea7xGHjpp7BGm8aG@cluster0.yibwo6a.mongodb.net/?appName=Cluster0",
+    "type": "sqlite",
+    "uriMongodb": "",
     "autoSyncWhenStart": false,
     "autoRefreshThreadInfoFirstTime": true,
-  "notes": "Recommended using 'mongodb' or 'sqlite'."
+    "notes": "Recommended using 'mongodb' or 'sqlite'."
   },
   "timeZone": "Asia/Dhaka",
   "credentials": {
