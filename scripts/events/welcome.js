@@ -9,7 +9,7 @@ module.exports = {
   config: {
     name: "welcome",
     version: "5.0",
-    author: "Mohammad AkasH",
+    author: "ncs pro",
     category: "events"
   },
 
